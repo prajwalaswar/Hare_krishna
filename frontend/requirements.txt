@@ -1,0 +1,8 @@
+streamlit
+requests
+audio-recorder-streamlit
+streamlit-webrtc
+pydub
+numpy
+plotly
+streamlit-autorefresh
