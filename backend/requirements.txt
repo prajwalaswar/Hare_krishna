@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+python-multipart
+SpeechRecognition
+groq
+gtts
+pygame
+python-jose
+passlib
+bcrypt
+aiofiles
+librosa
+soundfile
+numpy
+scipy
